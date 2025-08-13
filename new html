@@ -1,0 +1,160 @@
+<div style="max-width: 900px; margin: auto; padding: 2rem 1rem; font-family: 'Helvetica Neue', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: linear-gradient(to bottom, #f7f7f7, #ffffff);">
+ 
+  <!-- Title -->
+  <div style="text-align: center; margin-bottom: 3rem;">
+    <h2 style="font-size: 2.3rem; font-weight: 700; color: #005181;">THE ANIMAL PERSONALITY QUIZ</h2>
+    <p style="font-size: 1.2rem; color: #333; max-width: 700px; margin: auto;">You’ve already achieved what others only dream of. But legends don’t stagnate—they multiply!</p>
+  </div>
+ 
+  <!-- Cards -->
+  <div style="display: flex; flex-direction: column; gap: 2rem;">
+ 
+    <div style="background:#D6ECFA
+ ; backdrop-filter:blur(8px); border-radius:20px; padding:2rem; box-shadow:0 8px 20px rgba(0,0,0,0.06);">
+      <h3 style="color:#1a325d; font-size:1.5rem; font-weight:700;">The harsh reality</h3>
+      <p>You’ve built the life, the brand, and the identity. You’ve overcome things that would have broken most people—and you did it while carrying others along the way.</p>
+      <p>But now? You’re looking for something deeper. More real. More aligned.  
+ You’re powerful—but you’re bored.  
+ Respected—but restless.  
+ You reached success… and now you’re wondering if this is it.</p>
+      <p>It’s not.</p>
+      <p>Chingona Circle is where women leaders like you stop settling, stop running on autopilot, and challenge themselves again. It’s not about “achieving more”—it’s about growth and purpose. Deep roots. Sharp clarity. Clean energy. A new level of personal power!</p>
+    </div>
+ 
+    <div style="background:#D6ECFA
+ ; backdrop-filter:blur(8px); border-radius:20px; padding:2rem; box-shadow:0 8px 20px rgba(0,0,0,0.06);">
+      <h3 style="color:#1a325d; font-size:1.5rem; font-weight:700;">Your strengths</h3>
+      <ul>
+        <li>You have the receipts, the scars, and the wins—you earned your place!</li>
+        <li>Your standards are high—for you and for everyone around you.</li>
+        <li>The ability to lead, teach, build, and command attention.</li>
+      </ul>
+    </div>
+ 
+    <div style="background:#D6ECFA
+ ; backdrop-filter:blur(8px); border-radius:20px; padding:2rem; box-shadow:0 8px 20px rgba(0,0,0,0.06);">
+      <h3 style="color:#1a325d; font-size:1.5rem; font-weight:700;">What’s draining your energy:</h3>
+      <ul>
+        <li>You’re still doing too much alone.</li>
+        <li>You outgrew your previous circle, but you haven’t replaced it yet.</li>
+        <li>You don’t feel challenged—and that’s making you slip.</li>
+      </ul>
+    </div>
+ 
+    <div style="background:#D6ECFA
+ ; backdrop-filter:blur(8px); border-radius:20px; padding:2rem; box-shadow:0 8px 20px rgba(0,0,0,0.06);">
+      <h3 style="color:#1a325d; font-size:1.5rem; font-weight:700;"> 
+ Personal revelations</h3>
+      <ul>
+        <li>You don’t need more noise. You need more cleanliness/clarity.</li>
+        <li>If you don’t find a bigger room, you’ll shrink to fit the one you’re in.</li>
+        <li>You’re not stuck—you’re under-challenged.</li>
+      </ul>
+    </div>
+ 
+    <div style="background:#D6ECFA
+ ; backdrop-filter:blur(8px); border-radius:20px; padding:2rem; box-shadow:0 8px 20px rgba(0,0,0,0.06);">
+      <h3 style="color:#1a325d; font-size:1.5rem; font-weight:700;">Revelations to take control of your life:</h3>
+      <ul>
+        <li>Having control of your emotions is no longer optional—it’s your edge.</li>
+        <li>People are watching you—and what you tolerate, they will repeat.</li>
+        <li>You build a legacy when you raise your internal standards, not just the external ones.</li>
+      </ul>
+    </div>
+ 
+    <div style="background:#D6ECFA
+ ; backdrop-filter:blur(8px); border-radius:20px; padding:2rem; box-shadow:0 8px 20px rgba(0,0,0,0.06);">
+      <h3 style="color:#1a325d; font-size:1.5rem; font-weight:700;"> 
+ Personal development plan – 30 days</h3>
+ 
+      <h4 style="margin-top:1rem; font-weight:600;">Week 1 – Audit like a CEO</h4>
+      <ul>
+        <li>Review your energy, schedule, habits, and relationships.</li>
+        <li>Eliminate 2 things that aren’t aligned with the woman you say you are.</li>
+        <li>Choose ONE personal growth goal you’ve been ignoring—and focus on it every day.</li>
+      </ul>
+ 
+      <h4 style="margin-top:1rem; font-weight:600;">Week 2 – Get Your Edge Back</h4>
+      <ul>
+        <li>Do something that makes you nervous (again).</li>
+        <li>Join or create a space where you’re not the woman at the highest level.</li>
+        <li>Say what you’ve been holding back—in life, in your business, or with your boundaries.</li>
+      </ul>
+ 
+      <h4 style="margin-top:1rem; font-weight:600;">WEEK 3 – CREATE HABITS THAT LEAVE A LEGACY</h4>
+      <ul>
+        <li>Teach again or mentor—that’s how your power multiplies!</li>
+        <li>Level up—multiply your income x10 = multiply your peace x10.</li>
+        <li>Organize your day according to your energy, not just your productivity.</li>
+      </ul>
+ 
+      <h4 style="margin-top:1rem; font-weight:600;">Week 4 – Activate Expansion</h4>
+      <ul>
+        <li>Make a move that puts you back in growth mode—hire, fire, invest, or say NO.</li>
+        <li>Review your vision for the next 90 days and recommit.</li>
+        <li>Surround yourself with women who challenge you—not just applaud you.</li>
+      </ul>
+    </div>
+ 
+    <!-- CTA + Buttons -->
+    <div style="text-align:center; padding:3rem 1rem;">
+      <style>
+         .bounce-button-xl {
+           display:inline-block;
+           padding:24px 64px;
+           margin:1rem;
+           font-size:1.4rem;
+           font-weight:800;
+           text-decoration:none;
+           border-radius:999px;
+           box-shadow:0 10px 35px rgba(0,0,0,0.15);
+           transition:transform 0.3s ease, box-shadow 0.3s ease;
+           animation:pulseGradient 5s infinite linear;
+           background-size:200% 200%;
+           color:white;
+           background-image:linear-gradient(270deg, #1a325d, #1a325d, #1a325d);
+         }
+ 
+        .bounce-button-xl:hover {
+           transform:scale(1.07) translateY(-6px);
+           box-shadow:0 16px 50px rgba(0,0,0,0.2);
+         }
+ 
+        .bounce-button-xl.gray {
+           background-image:linear-gradient(270deg, #bbbbbb, #dddddd, #bbbbbb);
+           color:#333;
+         }
+ 
+        @keyframes pulseGradient {
+           0% { background-position: 0% 50%; }
+           50% { background-position: 100% 50%; }
+           100% { background-position: 0% 50%; }
+         }
+ 
+        @media (max-width: 500px) {
+           .bounce-button-xl {
+             font-size: 1.1rem;
+             padding: 18px 36px;
+           }
+         }
+      </style>
+ 
+      <h3 style="color:#1a325d; font-size:1.5rem; font-weight:700;"> 
+        Lead from abundance, not exhaustion
+      </h3>
+      <p style="font-size:1.2rem; color:#444; max-width:700px; margin:0 auto 2rem auto; line-height:1.6;">
+        In Chingona Circle, strong women become even stronger.  
+ This is your space to keep growing without having to lead alone. 
+      </p>
+ 
+      <a href="https://calendly.com/d/crsw-3zj-2w5/haz-tu-cita-para-una-sesion-de-negocios-gratis" class="bounce-button-xl">
+        BOOK YOUR FREE CONSULTATION
+      </a>
+ 
+      <a href="https://cdn.shopify.com/s/files/1/0524/7326/6329/files/Chingona_Legendaria.pdf?v=1747440726" class="bounce-button-xl gray">
+        ACCESS THE FULL PLAN
+      </a>
+    </div>
+ 
+  </div>
+</div>
