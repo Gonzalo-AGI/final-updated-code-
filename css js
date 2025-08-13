@@ -40,10 +40,10 @@
     transition: width 1s ease-in-out;
   }
 
-  #bar-legendaria { background: #0169a7; }
-  #bar-renacida { background: #dfeb05; }
-  #bar-visionaria { background: #049109; }
-  #bar-constructora { background: #db1304; }
+  #bar-sheep { background: #0169a7; }
+  #bar-love_bird { background: #dfeb05; }
+  #bar-owl { background: #049109; }
+  #bar-rhino { background: #db1304; }
 
   .summary-text {
     margin-top: 10px;
